@@ -18,5 +18,6 @@
   "homepage": "https://github.com/rafisfast/testexpress#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "scripts": { "pull" : "git pull https://github.com/rafisfast/testexpress.git"}
 }
